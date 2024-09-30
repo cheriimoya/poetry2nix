@@ -13738,6 +13738,9 @@
     "setuptools",
     "setuptools-scm"
   ],
+  "narwhals": [
+    "hatchling"
+  ],
   "nats-py": [
     "setuptools"
   ],
