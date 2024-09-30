@@ -15676,6 +15676,9 @@
   "pillow": [
     "setuptools"
   ],
+  "pillow-avif-plugin": [
+    "setuptools"
+  ],
   "pillow-heif": [
     "setuptools"
   ],
