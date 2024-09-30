@@ -24204,6 +24204,9 @@
   "timing-asgi": [
     "poetry-core"
   ],
+  "timm": [
+    "pdm-backend"
+  ],
   "tiny-cuda-nn": [
     "setuptools"
   ],
