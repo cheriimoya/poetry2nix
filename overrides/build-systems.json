@@ -15458,6 +15458,9 @@
     "setuptools",
     "setuptools-scm"
   ],
+  "pdocs": [
+    "poetry"
+  ],
   "pdunehd": [
     "setuptools"
   ],
