@@ -16051,6 +16051,9 @@
   "portpicker": [
     "setuptools"
   ],
+  "portray": [
+    "poetry"
+  ],
   "posix-ipc": [
     "setuptools"
   ],
